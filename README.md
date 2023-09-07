@@ -1,5 +1,5 @@
-# Flickr_Project
-Flicker Project
+# Flickr Project
+
 This project was designed to practice the following skills:
 
 •	Use the Volley library to make an HTTP request and handle the JSON response.
