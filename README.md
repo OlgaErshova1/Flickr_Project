@@ -13,9 +13,10 @@ This project was designed to practice the following skills:
 <img src="https://github.com/OlgaErshova1/Flickr_Project/assets/81580605/cd3c9a0c-f07a-43f7-91f1-55d84c49487c.png" width ="150">
 
 •	Load and display images in the RecyclerView using a Picasso library
+
 •	Search and present images by selected topic
 
-<img src="https://github.com/OlgaErshova1/Flickr_Project/assets/81580605/627dda3b-155b-4742-b89d-1d577fa82c4b.png" width="150">
+<img src="https://github.com/OlgaErshova1/Flickr_Project/assets/81580605/542919c2-6166-44b1-a045-148a0b8c7761.png" width="150">
 
 •	Bind image data to the ImageView in the RecyclerView adapter
 
